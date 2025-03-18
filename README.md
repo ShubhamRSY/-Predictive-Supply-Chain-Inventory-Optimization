@@ -1,4 +1,4 @@
-# 📦 Predictive Supply Chain & Inventory Optimization Tool
+# 📦 Predictive Supply Chain & Inventory Optimization 
 
 ## 🚀 Overview
 This project is a complete end-to-end **Predictive Supply Chain & Inventory Optimization Tool** for the beauty industry. It forecasts product demand by region, reduces stockouts, avoids overstocking, and minimizes total supply chain costs.
